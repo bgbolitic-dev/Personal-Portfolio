@@ -28,12 +28,10 @@ export default function About() {
         </CardHeader>
         <CardContent className="space-y-4 text-muted-foreground leading-relaxed">
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy
+            My journey in technology started with my curiosity about computers and how they work. As an Information Technology student, I developed an interest in programming and explored different languages such as C, C++, and Python. Through school activities and projects, I gained experience and learned how to solve problems using code.
           </p>
           <p>
-            it is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout.
+            Although I still have a lot to learn, I enjoy challenging myself and improving my skills. My goal is to become a skilled software developer, create useful applications, and continue growing in the field of technology.
           </p>
         </CardContent>
       </Card>
