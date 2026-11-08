@@ -6,15 +6,15 @@ const educationList = [
     degree: "BS in Information Technology",
     institution: "Naga College Foundation Inc.",
     period: "2025 - Present",
-    description: "Intensive program covering React, Node.js, databases, and deployment.",
-    achievements: ["Built 3 full-stack applications", "Peer Code Reviewer"],
+    description: "Currently studying Information Technology, focusing on programming, software development, database management, and web technologies.",
+    achievements: ["Learned C, C++, and Python programming.", "Developed academic projects involving programming and databases.", "Currently exploring web development and backend technologies."],
   },
   {
     degree: "High School Education",
     institution: "Camarines Sur Natonal HighSchool",
     period: "2019 - 2025",
-    description: "Intensive program covering Html, CSS, Java, JavaScript and Web Development.",
-    achievements: ["Built 3 full-stack applications", "Peer Code Reviewer"],
+    description: "Built my foundation in technology and programming while exploring computer-related subjects and developing my technical skills.",
+    achievements: ["- Developed an interest in software development and problem-solving.", "Gained experience in basic computer applications and technology.", "Developed an interest in software development and problem-solving."],
   },
 ];
 
