@@ -14,7 +14,7 @@ const educationList = [
     institution: "Camarines Sur Natonal HighSchool",
     period: "2019 - 2025",
     description: "Built my foundation in technology and programming while exploring computer-related subjects and developing my technical skills.",
-    achievements: ["- Developed an interest in software development and problem-solving.", "Gained experience in basic computer applications and technology.", "Developed an interest in software development and problem-solving."],
+    achievements: ["Developed an interest in software development and problem-solving.", "Gained experience in basic computer applications and technology.", "Developed an interest in software development and problem-solving."],
   },
 ];
 
